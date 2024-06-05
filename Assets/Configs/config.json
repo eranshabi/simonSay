@@ -1,0 +1,29 @@
+﻿{
+    "difficultyLevels": [
+        {
+            "name": "Easy",
+            "buttonsCount": 4,
+            "pointsPerStep": 1,
+            "TimeLimit": 50,
+            "repeatModeEnabled": true,
+            "gameSpeed": 1
+        },
+        {
+            "name": "Medium",
+            "buttonsCount": 5,
+            "pointsPerStep": 2,
+            "TimeLimit": 45,
+            "repeatModeEnabled": true,
+            "gameSpeed": 1.25
+        },
+        {
+            "name": "Hard",
+            "buttonsCount": 6,
+            "pointsPerStep": 3,
+            "TimeLimit": 30,
+            "repeatModeEnabled": false,
+            "gameSpeed": 1.5
+        }
+    ]
+
+}
